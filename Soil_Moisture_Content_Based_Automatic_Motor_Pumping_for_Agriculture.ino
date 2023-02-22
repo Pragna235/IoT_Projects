@@ -1,3 +1,6 @@
+//Source Code to be uploaded to the Microcontroller (ARDUINO UNO)
+
+
 int soilMoistureValue = 0;
 
 int percentage=0;
